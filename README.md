@@ -1,2 +1,2 @@
 # smartTvApp
-This is Tv Repository
+This is Smart Tv App
